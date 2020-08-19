@@ -1,8 +1,7 @@
 +++
 headless = true
-icon = ""
+icon = "/media/gorod-minimalizm-stil-art-noch.jpg"
 logo = ""
 image = ""
 color = ""
 +++
-
