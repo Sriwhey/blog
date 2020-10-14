@@ -11,14 +11,18 @@ Nach langem Überlegen sind wir auf das Thema Maskenpflicht gekommen. Daraufhin 
 
 **Die 3 Fragen:**
 
-Wäre es hilfreich, wenn der Staat jedem Bürger, Masken zusenden würde?
+1. Wäre es hilfreich, wenn der Staat jedem Bürger, Masken zusenden würde?
 
-Welche Erfahrungen haben Sie mit den Masken gemacht?
+2. Welche Erfahrungen haben Sie mit den Masken gemacht?
 
-Was sind Ihre Meinungen zum Maskenpflicht?
-
-Als erstes haben wir zwei Mädchen befragt. Die Mädchen waren jung und ging in die 8. Klasse.
+3. Was sind Ihre Meinungen zum Maskenpflicht?
 
 
 
-Antworten:
+**Antworten:**
+
+1. Ein junge Frau fände es sinnvoll, wenn der Staat Masken zusenden würde. Somit hätte man einen kleineren Aufwand, weil man sie nicht selber besorgen müsste und für Leute mit Geldprobleme gäbe es keine zusätzliche Kosten.
+
+2. Grundsätzlich haben die Passanten. mit den Masken keine negativen Erfahrungen gemacht. Jedoch findet die Mehrheit, dass die Masken gewöhnungsbedürftig sind. Zudem sind die Stoffmasken um Einiges angenehmer als die medizinischen Masken.
+
+3. Die Mehrheit findet die Maskenpflicht notwendig. Denn sonst würde es zu enorm vielen Ansteckungen kommen. Aber ein Mann sagte, er trage die Maske nur aus Solidarität. Denn man weiss nie wer alles zur Risikogruppe gehört und diese Personen sollte man schützen.
