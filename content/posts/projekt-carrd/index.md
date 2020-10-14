@@ -5,7 +5,7 @@ draft = false
 pinned = false
 tags = ["Blumenladen", "Webseite", "Carrd"]
 image = "flower.jpg"
-description = "Ich habe gelernt eine Webseite zu erstellen."
+description = "Ich habe gelernt eine Webseite zu erstellen. Als Hilfe diente die Webseite \"Carrd\"\nIch habe viele Erfahrungen sammeln können."
 +++
 ## **Erstellung einer Webseite mit Carrd**
 
