@@ -9,7 +9,7 @@ image = "funktionsweise-von-mineralstoffen-1080x700.jpg"
 
 Im Körper teilt man die Mineralstoffe im Körper nach zwei Dimensionen ein.
 
-**Mengenelemente:**
+## **Mengenelemente:**
 
 **[](https://de.wikipedia.org/wiki/Calcium "Calcium")**Kalzium 
 
@@ -25,7 +25,7 @@ Kalium 
 
 [](https://de.wikipedia.org/wiki/Schwefel "Schwefel")Schwefel
 
-**Spurenelemente:**
+## **Spurenelemente:**
 
 Eisen
 
@@ -41,6 +41,14 @@ Selen
 
 Zink
 
+## Omega 3:
 
 
-Grundsätzlich
+
+
+
+
+
+## **Fazit**
+
+Wenn man sich ausgewogen ernährt, gibt es keinen besonderen Grund, Mineral Supplemente zu nehmen. Aber, wenn man Vegetarier/Veganer ist oder sich in einer strengen Diät befindet, macht ein Nahrungsergänzungsmittel durchaus Sinn.
