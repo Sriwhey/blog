@@ -10,7 +10,7 @@ description = "Weiterarbeiten am Projekt \"Supplemente\"\nProgrammieren mit Visu
 
 Heute fand der "Web Unterricht" nicht in der Schule statt, sondern via Teams.
 
-## Visual Studio Code
+## Visual Studio Code:
 
 Zu Beginn des Unterrichts habe mit dem Programm "Visual Studio Code" an einer Webseite gearbeitet. Zudem habe ich neue Programmierelemente kennengelernt und angewendet.
 
