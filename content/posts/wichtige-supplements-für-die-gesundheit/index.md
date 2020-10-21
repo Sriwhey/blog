@@ -24,4 +24,8 @@ Vor allem Früchte, Nüsse und Gemüse enthalten viele Vitamine.
 
 **Mängel:**
 
-Vor allem Vitamin D ist ein Vitamin D, welches zu kurz kommt. Wenn zusätzlich die kalten Jahreszeiten kommen, kann unser Körper nicht genug Vitamin D aus der Sonne gewinnen. Dies führt zu einem Mangel. Ein Mangel an Vitamin D führt zu Müdigkeit und Muskelschwäche.
+Vor allem Vitamin D ist ein Vitamin D, welches zu kurz kommt. Wenn zusätzlich die kalten Jahreszeiten kommen, kann unser Körper nicht genug Vitamin D aus der Sonne gewinnen. Dies führt zu einem Mangel. Ein Mangel an Vitamin D führt zu Müdigkeit und Muskelschwäche. Der Bedarf der restlichen Vitamine sollte durch eine ausgewogene Ernährung gut gedeckt werden. Der Einsatz mit Ergänzungspillen macht eigentlich nur bei einer strengen Diät oder im Winter Sinn.
+
+**Empfehlung Supplement:**
+
+Ich empfehle die Vitamin Kapseln von ESN. Das Produkt hat sehr gute Nährwerte und hat einen angemessen Preis. Ausserdem habe ich mit diesem Produkt nur positive Erfahrungen gesammelt.
