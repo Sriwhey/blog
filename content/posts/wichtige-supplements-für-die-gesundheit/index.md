@@ -3,7 +3,7 @@ title = "Wichtige Supplements für die Gesundheit"
 date = "2020-09-02"
 draft = false
 pinned = false
-tags = ["Gesundheit", "Fitness", "Supplements", "Health"]
+tags = ["Gesundheit", "Fitness", "Supplements", "Health", "Vitamine", "ESN"]
 description = "Die wichtigsten Nahrungsergänzungsmittel für ein gesundes Leben,"
 +++
 # **Vitamine:**
@@ -29,3 +29,7 @@ Vor allem Vitamin D ist ein Vitamin D, welches zu kurz kommt. Wenn zusätzlich d
 **Empfehlung Supplement:**
 
 Ich empfehle die Vitamin Kapseln von ESN. Das Produkt hat sehr gute Nährwerte und hat einen angemessen Preis. Ausserdem habe ich mit diesem Produkt nur positive Erfahrungen gesammelt.
+
+https://www.esn.com/Produkte/Vitalstoffe/ESN-Vitamin-Stack-120-Kaps.html
+
+![](esn.png)
