@@ -16,4 +16,4 @@ Zu Beginn des Unterrichts habe mit dem Programm "Visual Studio Code" an einer We
 
 ## Projekt Supplemente:
 
-Hauptsächlich habe ich an meinem Projekt gearbeitet. Ich habe angefangene Blog Einträge, wie zum Beispiel der Eintrag zu Vitaminen fertiggestellt. Dabei habe neue Elemente des Lernblogs benützt. Zum Beispiel habe ich einen Link zu einem vorgestellten Produkt eingefügt. Nach diesem Prozess habe ich an einem neuen Blogeintrag gearbeitet. Ich habe einen Eintrag zu "Mineralstoffen und Omega 3" erstellt. Diesen Eintrag werde ich nächste Woche noch verbessern und fertigstellen.
+Hauptsächlich habe ich an meinem Projekt gearbeitet. Ich habe angefangene Blog Einträge, wie zum Beispiel der Eintrag zu "Vitaminen" fertiggestellt. Dabei habe neue Elemente des Lernblogs benützt. Zum Beispiel habe ich einen Link zu einem vorgestellten Produkt eingefügt. Nach diesem Prozess habe ich an einem neuen Blogeintrag gearbeitet. Ich habe einen Eintrag zu "Mineralstoffen und Omega 3" erstellt. Diesen Eintrag werde ich nächste Woche noch verbessern und fertigstellen.
