@@ -7,7 +7,7 @@ image = "funktionsweise-von-mineralstoffen-1080x700.jpg"
 +++
 # **Mineralstoffe und Omega 3**
 
-Im Körper teilt man die Mineralstoffe im Körper nach zwei Dimensionen ein.
+Im Körper teilt man die Mineralstoffe im Körper nach zwei Dimensionen ein. Zudem sind sie an etlichen Prozessen im Körper verantwortlich.
 
 ## **Mengenelemente:**
 
@@ -41,7 +41,13 @@ Selen
 
 Zink
 
+## Vorkommen:
+
+Vor allem Fisch, Fleisch, Nüsse und Haferflocken enthalten viele Mineralstoffe. In Fisch ist sogar Omega 3 in grossen Mengen vorhanden.
+
 ## Omega 3:
+
+Omega 3 sind Fettsäuren und sie sind für den menschlichen
 
 
 
