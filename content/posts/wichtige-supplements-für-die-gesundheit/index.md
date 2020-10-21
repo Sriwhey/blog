@@ -1,5 +1,5 @@
 +++
-title = "Wichtige Supplements für die Gesundheit"
+title = "Wichtige Supplements für die Gesundheit Teil 1"
 date = "2020-09-02"
 draft = false
 pinned = false
