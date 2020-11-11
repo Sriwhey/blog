@@ -1,6 +1,6 @@
 +++
 title = "Wichtige Supplements für die Gesundheit Teil 2"
-date = "2020-10-21"
+date = "2020-11-11"
 draft = false
 pinned = false
 image = "funktionsweise-von-mineralstoffen-1080x700.jpg"
