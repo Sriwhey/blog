@@ -4,6 +4,7 @@ date = "2020-11-18"
 draft = false
 pinned = false
 tags = ["Supplemente", "Muskelaufbau", "Hypertrophie"]
+image = "kreatin.jpg"
 description = "Verbesserung der Kraft\nBesserer Muskelaufbau\nTestosteronsteigerung"
 +++
 # Nahrungsergänzungsmittel Muskelaufbau
