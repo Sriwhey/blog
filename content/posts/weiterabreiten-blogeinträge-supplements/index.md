@@ -1,5 +1,5 @@
 +++
-title = "Weiterabreiten Blogeinträge Supplements"
+title = "Weiterarbeiten Blogeinträge Supplements"
 date = "2020-11-18"
 draft = false
 pinned = false
