@@ -3,6 +3,8 @@ title = "Muskelaufbau Supplements"
 date = "2020-11-18"
 draft = false
 pinned = false
+tags = ["Supplemente", "Muskelaufbau", "Hypertrophie"]
+description = "Verbesserung der Kraft\nBesserer Muskelaufbau\nTestosteronsteigerung"
 +++
 # Nahrungsergänzungsmittel Muskelaufbau
 
@@ -23,3 +25,5 @@ Zink:
 Zink ist eine silnnvolle Ergänzung, weil bei grosser Anstrengung wird Zink über den Schweiss ausgeschieden. Ausserdem ist Zink wichtig für einen hohen Testosteronspiegel. Es ist wissenschaftlcih nachgewiesen, dass die Aufnahme von Zink, den Testosteronspiegel steigen lässt. Beim Muskelaufbau gilt der Leitsatz, "je mehr Testosteron desto besser".
 
 Kreatin:
+
+Wichtig beim Energiestoffwechsel. Kreatin sorgt vor allem dafür, dass man während dem Training mehr Energie hat. Somit ist man fähig länger durchzuhalten und auch mehr Gewichte zu stemmen.
