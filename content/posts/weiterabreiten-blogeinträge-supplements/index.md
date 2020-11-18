@@ -12,4 +12,6 @@ Im Blogeintrag war es das Thema "Nahrungsmittel für Muskelaufbau". Also Nahrung
 
 Ich konnte gemütlich an diesem Thema arbeiten und es hat mir Spass gemacht.
 
+Das nächste Mal werde ich weitere Blogeinträge verfassen. Zudem werde ich Alina mit der Webseite über "Sportgeräte Vergleiche" helfen.
+
 ![](lol.png)
