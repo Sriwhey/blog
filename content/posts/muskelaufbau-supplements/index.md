@@ -18,11 +18,11 @@ Spielt eine grosse Rolle beim Energiestoffwechsel. Zudem fördert Magnesium die 
 
 Omega 3:
 
-Omega 3 fördert den Muskelaufbau und steigert die Gehirnfunktion. Ausserdem wirkt es entzündungshemmend. Zudem kann Omega den Testosteronspiegel in Kombination mit guten Fetten sterigern.
+Omega 3 fördert den Muskelaufbau und steigert die Gehirnfunktion. Ausserdem wirkt es entzündungshemmend. Zudem kann Omega den Testosteronspiegel in Kombination mit guten Fetten steigern.
 
 Zink:
 
-Zink ist eine silnnvolle Ergänzung, weil bei grosser Anstrengung wird Zink über den Schweiss ausgeschieden. Ausserdem ist Zink wichtig für einen hohen Testosteronspiegel. Es ist wissenschaftlcih nachgewiesen, dass die Aufnahme von Zink, den Testosteronspiegel steigen lässt. Beim Muskelaufbau gilt der Leitsatz, "je mehr Testosteron desto besser".
+Zink ist eine sinnvolle Ergänzung, weil bei grosser Anstrengung wird Zink über den Schweiss ausgeschieden. Ausserdem ist Zink wichtig für einen hohen Testosteronspiegel. Es ist wissenschaftlich nachgewiesen, dass die Aufnahme von Zink, den Testosteronspiegel steigen lässt. Beim Muskelaufbau gilt der Leitsatz, "je mehr Testosteron desto besser".
 
 Kreatin:
 
