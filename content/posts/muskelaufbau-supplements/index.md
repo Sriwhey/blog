@@ -15,7 +15,7 @@ Vitamin D hat einen grossen Einfluss auf den Testosteron . Somit ist die Zuführ
 
 Magnesium:
 
-Spielt eine grosse Rolle beim Energiestoffwechsel. Zudem fördert Magnesium die Regeneration, was nach dem Training sehr vorteilhaft ist.
+Spielt eine grosse Rolle beim Energiestoffwechsel. Zudem fördert Magnesium die Regeneration, was nach dem Training sehr vorteilhaft ist. Es ist auch wichtig für die Muskelkontraktion und Kommunikation zwischen den Nerven- und Muskelzellen.
 
 Omega 3:
 
@@ -23,7 +23,7 @@ Omega 3 fördert den Muskelaufbau und steigert die Gehirnfunktion. Ausserdem wir
 
 Zink:
 
-Zink ist eine sinnvolle Ergänzung, weil bei grosser Anstrengung wird Zink über den Schweiss ausgeschieden. Ausserdem ist Zink wichtig für einen hohen Testosteronspiegel. Es ist wissenschaftlich nachgewiesen, dass die Aufnahme von Zink, den Testosteronspiegel steigen lässt. Beim Muskelaufbau gilt der Leitsatz, "je mehr Testosteron desto besser".
+Zink ist eine sinnvolle Ergänzung, weil bei grosser Anstrengung wird Zink über den Schweiss ausgeschieden. Ausserdem ist Zink wichtig für einen hohen Testosteronspiegel. Es ist wissenschaftlich nachgewiesen, dass die Aufnahme von Zink, den Testosteronspiegel steigen lässt. Beim Muskelaufbau gilt der Leitsatz, "je mehr Testosteron desto besser". Damit ist der natürliche Testosteronspiegel gemeint. Ein hoher Testosteronspiegel infolge eines Steroid Konsums, ist nicht unbedingt von Vorteil. 
 
 Kreatin:
 
