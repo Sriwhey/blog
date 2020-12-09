@@ -3,6 +3,7 @@ title = "Photoshop und Projekte"
 date = "2020-12-09"
 draft = false
 pinned = false
+image = "437eff483bfd27c826970175bd022bf8.jpg"
 description = "Bilder bearbeitet\nProjekterweiterung"
 +++
 Zu Beginn habe ich mit Gimp Bilder bearbeitet. Als Leitfaden dienten YouTube Videos. In den Videos wurde sehr ausführlich erklärt, wie man Fotos bearbeitet. Im Grossen und Ganzen hatte ich mit dem Bearbeiten auch keine Mühe. Es sind gute Resultate rausgekommen. Ich war mit meiner Arbeit zufrieden.
