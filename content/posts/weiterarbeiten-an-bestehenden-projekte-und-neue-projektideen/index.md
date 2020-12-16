@@ -4,7 +4,7 @@ date = "2020-12-16"
 draft = false
 pinned = false
 image = "herunterladen.jpg"
-description = "Blogeintrag: Pflanzliche Ergänzungsmittel\nNeue Ideen\nWorkout-Videos.\n"
+description = "Blogeintrag: Pflanzliche Ergänzungsmittel\nNeue Ideen\nWorkout-Videos\n"
 +++
 Heute habe ich vor allem an meinen Blogeinträgen gearbeitet. Ich habe in meinem neuen Blog Eintrag neue Ergänzungsmittel aufgezählt. Vor allem die Mehrheit unbekannte Produkte wurden aufgedeckt. Ich habe hauptsächlich über die Wirkung und der Studienlage geschrieben.
 
